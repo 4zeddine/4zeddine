@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Az-eddine Nader</h1>
-<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Morocco 🇲🇦</h3>
+<h3 align="center">Full-stack Developer | MERN Stack Enthusiast | Morocco 🇲🇦</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Development;MERN+Stack;Always+learning+new+things&center=true&width=380&height=45">
