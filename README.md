@@ -1,53 +1,55 @@
-<h1 align="center">Hi there! 👋 I'm Az-eddine Nader</h1>
-<h3 align="center">Full-stack Developer | MERN Stack Enthusiast | Morocco 🇲🇦</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Development;MERN+Stack;Always+learning+new+things&center=true&width=380&height=45">
-</p>
+# Az-eddine Nader
 
-<p align="center">
-  <a href="https://twitter.com/4zeddine"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-  <a href="https://linkedin.com/in/azeddine-nader"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:azeddine.nader@gmail.com?subject=Hello%20Az-eddine"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p>
+### Full-stack Developer • MERN Stack • Morocco 🇲🇦
 
-<h2>🚀 About Me</h2>
+[![Twitter](https://img.shields.io/badge/—@4zeddine-000?style=flat&logo=x&logoColor=white)](https://twitter.com/4zeddine)
+[![LinkedIn](https://img.shields.io/badge/—in/azeddine--nader-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/azeddine-nader)
+[![Email](https://img.shields.io/badge/—azeddine.nader@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:azeddine.nader@gmail.com)
 
-🔭 I'm passionate about frontend development and currently expanding my skills in the MERN stack.
-🌱 Always eager to learn and grow in the ever-evolving world of web development.
-💼 Open to exciting opportunities in frontend development and full-stack projects.
+</div>
 
-<h2>🛠️ Technologies & Tools</h2>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+## About
 
-<h2>📊 GitHub Stats</h2>
+Frontend developer of 2 years experience mainly in **ReactJS** and **NextJs** also the **MERN stack**. Always learning, always building.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4zeddine&show_icons=true&theme=radical" alt="4zeddine's GitHub Stats" />
-</p>
+```javascript
+const azeddine = {
+  location: "Morocco 🇲🇦",
+  focus: ["Frontend Development", "MERN Stack", "UI/UX"],
+  currentlyLearning: "Advanced React Patterns & System Design",
+  openTo: "Exciting opportunities and collaborations"
+};
+```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4zeddine&theme=radical" alt="4zeddine's GitHub Streak" />
-</p>
+## Tech Stack
 
-<h2>📫 Let's Connect!</h2>
+```yaml
+Frontend:  HTML5 • CSS3 • JavaScript • React • Tailwind CSS • Sass • Bootstrap
+Backend:   Node.js • Express.js
+Database:  MongoDB
+Tools:     Git • Figma
+```
 
-<p>I'm always interested in new opportunities and collaborations. Feel free to reach out to me via email at azeddine.nader@gmail.com or connect with me on LinkedIn!</p>
+## GitHub Activity
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4zeddine&color=blueviolet" alt="Profile views" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4zeddine&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4zeddine&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's build something amazing together**
+
+![Profile Views](https://komarev.com/ghpvc/?username=4zeddine&color=58a6ff&style=flat)
+
+</div>
