@@ -14,7 +14,7 @@
 
 ## About
 
-Frontend developer of 2 years experience mainly in **ReactJS** and **NextJs** also the **MERN stack**. Always learning, always building.
+Frontend developer of 3 years experience mainly in **ReactJS** and **NextJs** also the **MERN stack**. Always learning, always building.
 
 ```javascript
 const azeddine = {
